@@ -4,9 +4,13 @@ Emoji calculator is a small scale emoji face calculator where arithmetic operati
 multiplication, division can be performed. All arithmetic operator is musked with face emoji, for example, addition is
 musked by Alien, subtraction, multiplication, division are musked by skull, ghost, scream respectively.
 
+## Application
+
+This application is based of Laravel v9 & Vue.js v2
+
 ## Requirement
 
-1. PHP 8.1^
+1. PHP 8.0^
 2. Composer
 3. Node
 
@@ -37,4 +41,5 @@ musked by Alien, subtraction, multiplication, division are musked by skull, ghos
 1. Insert two value and select musk.
 2. Submit to get result, result will be shown below.
 3. Press Reset to reset the form.
+
 
